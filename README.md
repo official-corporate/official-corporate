@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @official-corporate
+- 👀 I’m interested in Biostatistics and Bioinformatics
+- 🌱 I’m currently learning R
